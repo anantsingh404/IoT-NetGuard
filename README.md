@@ -112,10 +112,3 @@ https://www.stratosphereips.org/datasets-iot23
 | scikit-learn | Latest |
 | Pandas | Latest |
 | Anaconda Jupyter Notebook | Latest |
-
----
-
-## Citation
-
-Stratosphere Laboratory. *A labeled dataset with malicious and benign IoT network traffic.*  
-January 22th, 2020. Agustin Parmisano, Sebastian Garcia, Maria Jose Erquiaga.
